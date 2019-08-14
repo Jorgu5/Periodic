@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "cat": "OP",
+    "name_short": "Kb",
+    "name": "Knowdlege base"
+  },
+  {
+    "id": "2",
+    "cat": "IT",
+    "name_short": "Wi",
+    "name": "What is the WiFi password"
+  },
+  {
+    "id": "3",
+    "cat": "HR",
+    "name_short": "Es",
+    "name": "Employee sat. survey"
+  },
+  {
+    "id": "4",
+    "cat": "OP",
+    "name_short": "Sv",
+    "name": "Schedule a visitor"
+  },
+  {
+    "id": "5",
+    "cat": "HR",
+    "name_short": "Ev",
+    "name": "Employee IVR"
+  },
+  {
+    "id": "6",
+    "cat": "HR",
+    "name_short": "Et",
+    "name": "Employee ITR"
+  },
+  {
+    "id": "7",
+    "cat": "LG",
+    "name_short": "Mc",
+    "name": "Manage contract expiration"
+  },
+  {
+    "id": "8",
+    "cat": "IT",
+    "name_short": "St",
+    "name": "Security vulnerability testing"
+  },
+  {
+    "id": "9",
+    "cat": "LG",
+    "name_short": "Ss",
+    "name": "Send pdf for signature"
+  },
+  {
+    "id": "10",
+    "cat": "AF",
+    "name_short": "Cw",
+    "name": "Company wallet"
+  },
+  {
+    "id": "11",
+    "cat": "HR",
+    "name_short": "Rb",
+    "name": "Recruting Bot"
+  },
+  {
+    "id": "12",
+    "cat": "HR",
+    "name_short": "Eb",
+    "name": "Employee on-boarding bot"
+  },
+  {
+    "id": "13",
+    "cat": "HR",
+    "name_short": "Ob",
+    "name": "Off-boarding"
+  },
+  {
+    "id": "14",
+    "cat": "HR",
+    "name_short": "Si",
+    "name": "Schedule group interview"
+  },
+  {
+    "id": "15",
+    "cat": "OP",
+    "name_short": "Tt",
+    "name": "Request time for time tracking"
+  },
+  {
+    "id": "16",
+    "cat": "OP",
+    "name_short": "Tb",
+    "name": "Teach bot Q&A"
+  },
+  {
+    "id": "17",
+    "cat": "OP",
+    "name_short": "Mc",
+    "name": "Make coffee"
+  },
+  {
+    "id": "18",
+    "cat": "HR",
+    "name_short": "Rt",
+    "name": "Request time for company project"
+  },
+  {
+    "id": "19",
+    "cat": "OP",
+    "name_short": "Tp",
+    "name": "Suggest a tool or product"
+  },
+  {
+    "id": "20",
+    "cat": "HR",
+    "name_short": "Ab",
+    "name": "Candidate profile building"
+  },
+  {
+    "id": "21",
+    "cat": "AF",
+    "name_short": "Ps",
+    "name": "Payroll setup"
+  },
+  {
+    "id": "22",
+    "cat": "HR",
+    "name_short": "Vb",
+    "name": "HR vacation bot"
+  },
+  {
+    "id": "23",
+    "cat": "HR",
+    "name_short": "Sd",
+    "name": "Sick day"
+  },
+  {
+    "id": "24",
+    "cat": "HR",
+    "name_short": "Rh",
+    "name": "Report harassment"
+  },
+  {
+    "id": "25",
+    "cat": "OP",
+    "name_short": "Rm",
+    "name": "Request meeting"
+  },
+  {
+    "id": "26",
+    "cat": "IT",
+    "name_short": "Tq",
+    "name": "IT Q&A"
+  },
+  {
+    "id": "27",
+    "cat": "LG",
+    "name_short": "Lq",
+    "name": "Legal Q&A"
+  },
+  {
+    "id": "28",
+    "cat": "HR",
+    "name_short": "Uc",
+    "name": "Update contact info"
+  },
+  {
+    "id": "29",
+    "cat": "OP",
+    "name_short": "Rm",
+    "name": "Set team goal and track it"
+  },
+  {
+    "id": "30",
+    "cat": "AF",
+    "name_short": "Pd",
+    "name": "Pay discrepancy"
+  },
+  {
+    "id": "31",
+    "cat": "OP",
+    "name_short": "Rt",
+    "name": "Request training or conference"
+  },
+  {
+    "id": "32",
+    "cat": "OP",
+    "name_short": "Wh",
+    "name": "Work from home"
+  },
+  {
+    "id": "33",
+    "cat": "HR",
+    "name_short": "Pw",
+    "name": "Peer review"
+  },
+  {
+    "id": "34",
+    "cat": "OP",
+    "name_short": "Wp",
+    "name": "What's my priority"
+  },
+  {
+    "id": "35",
+    "cat": "HR",
+    "name_short": "Cr",
+    "name": "Candidate referral"
+  },
+  {
+    "id": "36",
+    "cat": "HR",
+    "name_short": "Rs",
+    "name": "Resume collection/query"
+  },
+  {
+    "id": "37",
+    "cat": "IT",
+    "name_short": "Rp",
+    "name": "Reset password"
+  },
+  {
+    "id": "38",
+    "cat": "HR",
+    "name_short": "Ra",
+    "name": "Relocation assistance"
+  },
+  {
+    "id": "39",
+    "cat": "IT",
+    "name_short": "Id",
+    "name": "Identify devices using Fing"
+  },
+  {
+    "id": "40",
+    "cat": "LG",
+    "name_short": "Cw",
+    "name": "Contract workflow"
+  },
+  {
+    "id": "41",
+    "cat": "OP",
+    "name_short": "Cf",
+    "name": "Creating forms"
+  },
+  {
+    "id": "42",
+    "cat": "OP",
+    "name_short": "Rc",
+    "name": "Reminder chase"
+  },
+  {
+    "id": "43",
+    "cat": "HR",
+    "name_short": "St",
+    "name": "Scheduling candidate tests"
+  },
+  {
+    "id": "44",
+    "cat": "LO",
+    "name_short": "Cs",
+    "name": "Cover my shift"
+  },
+  {
+    "id": "45",
+    "cat": "OP",
+    "name_short": "Ct",
+    "name": "Creating a to do"
+  },
+  {
+    "id": "46",
+    "cat": "SA",
+    "name_short": "Rb",
+    "name": "Ring the accomplishment bell"
+  },
+  {
+    "id": "47",
+    "cat": "OP",
+    "name_short": "Dc",
+    "name": "Data collection"
+  },
+  {
+    "id": "48",
+    "cat": "OP",
+    "name_short": "Cb",
+    "name": "Check-in-behavior policy"
+  },
+  {
+    "id": "49",
+    "cat": "SP",
+    "name_short": "HC",
+    "name": "On-Hold w call-back"
+  },
+  {
+    "id": "50",
+    "cat": "MK",
+    "name_short": "Ch",
+    "name": "Create a hackaton"
+  },
+  {
+    "id": "51",
+    "cat": "AF",
+    "name_short": "Et",
+    "name": "Expense-tracking"
+  },
+  {
+    "id": "52",
+    "cat": "IT",
+    "name_short": "Oi",
+    "name": "Open issue (create ticket)"
+  },
+  {
+    "id": "53",
+    "cat": "HR",
+    "name_short": "Ce",
+    "name": "Company event RSVP"
+  },
+  {
+    "id": "54",
+    "cat": "OP",
+    "name_short": "Rd",
+    "name": "Report damaged or stolen equipment"
+  },
+  {
+    "id": "55",
+    "cat": "PT",
+    "name_short": "Ns",
+    "name": "Need supplies"
+  },
+  {
+    "id": "56",
+    "cat": "OP",
+    "name_short": "Cb",
+    "name": "Conference room booking"
+  },
+  {
+    "id": "57",
+    "cat": "AF",
+    "name_short": "Cc",
+    "name": "Change credit card"
+  },
+  {
+    "id": "58",
+    "cat": "SA",
+    "name_short": "Co",
+    "name": "Customer onboarding bot"
+  },
+  {
+    "id": "59",
+    "cat": "AF",
+    "name_short": "Sa",
+    "name": "Send invoice for approvals"
+  },
+  {
+    "id": "60",
+    "cat": "OP",
+    "name_short": "Ca",
+    "name": "Communication analysis"
+  },
+  {
+    "id": "61",
+    "cat": "HR",
+    "name_short": "Mi",
+    "name": "Medical benefits inquiry"
+  },
+  {
+    "id": "62",
+    "cat": "HR",
+    "name_short": "Eh",
+    "name": "Employee handbook Q&A"
+  },
+  {
+    "id": "63",
+    "cat": "LO",
+    "name_short": "Fd",
+    "name": "Order food for meetings"
+  },
+  {
+    "id": "64",
+    "cat": "LO",
+    "name_short": "Rr",
+    "name": "Round robin"
+  },
+  {
+    "id": "65",
+    "cat": "OP",
+    "name_short": "Ae",
+    "name": "Ask today guest experts"
+  },
+  {
+    "id": "66",
+    "cat": "OP",
+    "name_short": "Pm",
+    "name": "Phone number masking"
+  },
+  {
+    "id": "67",
+    "cat": "HR",
+    "name_short": "Wd",
+    "name": "Wellness incentive drip"
+  },
+  {
+    "id": "68",
+    "cat": "HR",
+    "name_short": "Hs",
+    "name": "Holiday schedule"
+  },
+  {
+    "id": "69",
+    "cat": "HR",
+    "name_short": "La",
+    "name": "Leave of absence"
+  },
+  {
+    "id": "70",
+    "cat": "OP",
+    "name_short": "Up",
+    "name": "Update/share OKR progress"
+  },
+  {
+    "id": "71",
+    "cat": "HR",
+    "name_short": "Ft",
+    "name": "Facilitating candidate tests"
+  },
+  {
+    "id": "72",
+    "cat": "LG",
+    "name_short": "Gn",
+    "name": "Generate NDA"
+  },
+  {
+    "id": "73",
+    "cat": "IT",
+    "name_short": "Tw",
+    "name": "Troubleshooting wizard"
+  },
+  {
+    "id": "74",
+    "cat": "HR",
+    "name_short": "Ac",
+    "name": "Background checks"
+  },
+  {
+    "id": "75",
+    "cat": "Pt",
+    "name_short": "Af",
+    "name": "Pay by text"
+  },
+  {
+    "id": "76",
+    "cat": "OP",
+    "name_short": "Cs",
+    "name": "Change account status"
+  },
+  {
+    "id": "77",
+    "cat": "AF",
+    "name_short": "Tr",
+    "name": "Tuition reimbersment"
+  },
+  {
+    "id": "78",
+    "cat": "HR",
+    "name_short": "Mc",
+    "name": "Manager employee check-in"
+  },
+  {
+    "id": "79",
+    "cat": "AF",
+    "name_short": "Rc",
+    "name": "Renew credit card"
+  },
+  {
+    "id": "80",
+    "cat": "LG",
+    "name_short": "Cn",
+    "name": "Compliment notifications"
+  },
+  {
+    "id": "81",
+    "cat": "AF",
+    "name_short": "Cl",
+    "name": "Collections"
+  },
+  {
+    "id": "82",
+    "cat": "IT",
+    "name_short": "Lc",
+    "name": "Lost access card"
+  },
+  {
+    "id": "83",
+    "cat": "OP",
+    "name_short": "Hw",
+    "name": "Help unblock work"
+  },
+  {
+    "id": "84",
+    "cat": "IT",
+    "name_short": "Ar",
+    "name": "Access request (IT)"
+  },
+  {
+    "id": "85",
+    "cat": "AF",
+    "name_short": "Pp",
+    "name": "Pay by phone"
+  },
+  {
+    "id": "86",
+    "cat": "PT",
+    "name_short": "Cu",
+    "name": "Purchase company uniforms, etc."
+  },
+  {
+    "id": "87",
+    "cat": "RD",
+    "name_short": "Li",
+    "name": "Get the latest inside information"
+  },
+  {
+    "id": "88",
+    "cat": "RD",
+    "name_short": "Ws",
+    "name": "Who's on the hot seat"
+  },
+  {
+    "id": "89",
+    "cat": "HA",
+    "name_short": "Cb",
+    "name": "Create brown bag"
+  },
+  {
+    "id": "90",
+    "cat": "OP",
+    "name_short": "Op",
+    "name": "Overlap pairing"
+  },
+  {
+    "id": "91",
+    "cat": "IT",
+    "name_short": "Ir",
+    "name": "Image recording"
+  },
+  {
+    "id": "92",
+    "cat": "HR",
+    "name_short": "Pt",
+    "name": "Personality test"
+  },
+  {
+    "id": "93",
+    "cat": "IT",
+    "name_short": "Da",
+    "name": "Data analyses"
+  },
+  {
+    "id": "94",
+    "cat": "IT",
+    "name_short": "Dc",
+    "name": "Data clean-up"
+  },
+  {
+    "id": "95",
+    "cat": "RD",
+    "name_short": "Cb",
+    "name": "Create a brainstorm"
+  },
+  {
+    "id": "96",
+    "cat": "OP",
+    "name_short": "Nt",
+    "name": "Nudge theory applied"
+  },
+  {
+    "id": "97",
+    "cat": "IT",
+    "name_short": "Rg",
+    "name": "Report generation and query"
+  },
+  {
+    "id": "98",
+    "cat": "HR",
+    "name_short": "Ea",
+    "name": "At-risk employee alerts"
+  },
+  {
+    "id": "99",
+    "cat": "LG",
+    "name_short": "Ca",
+    "name": "Contract comparative analysis"
+  },
+  {
+    "id": "100",
+    "cat": "HR",
+    "name_short": "Ci",
+    "name": "Candidate insights"
+  }
+]

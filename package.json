@@ -1,0 +1,45 @@
+{
+  "name": "gulp-setup",
+  "version": "1.0.0",
+  "description": "A simple gulp setup",
+  "main": "gulpfile.js",
+  "browserslist": [
+    "last 2 version",
+    "> 2%"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azemoh/gulp-setup.git"
+  },
+  "keywords": [
+    "gulp",
+    "workflow",
+    "automation"
+  ],
+  "author": "Joshua Azemoh",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "autoprefixer": "*",
+    "browser-sync": "^2.12.5",
+    "del": "*",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "*",
+    "gulp-cssbeautify": "*",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-terser": "^1.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/azemoh/gulp-setup/issues"
+  },
+  "homepage": "https://github.com/azemoh/gulp-setup#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
